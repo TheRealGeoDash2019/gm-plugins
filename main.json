@@ -1,19 +1,6 @@
 {
   "modules": [
-    /*{
-      "name": "Avatar Data Attribute",
-      "description": "Adds data attribute to avatar elements, as some CSS tweaks / modules rely on it",
-      "version": "1.0.0",
-      "tags": ["DOM", "backend"],
-      "authors": "Ducko",
-      "hash": "c6db2ebff010d953a976e7963748328b91491f94c3fe9a8a0c9365ebb4c03ba6d650a24d12ada60f514de357d2ee41ae9d7da941ed21abd895569ba3ed0c6301",
-      "github": {
-        "stars": 7,
-        "repo": "GooseMod/MS2Porter"
-      },
-      "lastUpdated": 1611517780,
-      "images": []
-    }*/
+    
   ], 
   "meta": {
     "name": "Magic Bois",
