@@ -1,5 +1,5 @@
 {
-  modules: [
+  "modules": [
     {
       "name": "Avatar Data Attribute",
       "description": "Adds data attribute to avatar elements, as some CSS tweaks / modules rely on it",
@@ -15,7 +15,7 @@
       "images": []
     }
   ], 
-  meta: {
+  "meta": {
     "name": "Store Core - MS2Porter",
     "description": "Auto-ported MS1 (older) GooseMod modules."
   }
